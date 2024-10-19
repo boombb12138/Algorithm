@@ -37,6 +37,8 @@
 
 ## 共学内容
 
+This is the first stage for this 21 day project:
+
 Weeks 1-2: Complexity Analysis and Array Basics
 Day 1-3: Chapter 1 - Complexity Analysis
 Task: Study time and space complexity analysis, with a focus on Big O notation.
@@ -59,29 +61,35 @@ Task: Study stack and queue operations, focusing on push/pop/enqueue/dequeue ope
 LeetCode: Solve 1 stack or queue problem each day, using Grind75 to practice implementation and complexity analysis.
 
 <details>
-  <summary>Click to toggle</summary>
+  <summary>Below are the full roadmap</summary>
   
   Weeks 5-6: Trees and Graphs
 Day 25-31: Trees
 Task: Study binary trees, binary search trees, and tree traversal algorithms (preorder, inorder, postorder).
 LeetCode: Solve 1 tree-related problem per day from Grind75, focusing on both time and space complexities.
+
 Day 32-36: Graphs
 Task: Learn graph traversal techniques like BFS and DFS.
 LeetCode: Solve 1 graph-related question per day from Grind75, focusing on graph representation and traversal complexities.
+
 Weeks 7-9: Sorting, Searching, and Hash Tables
 Day 37-43: Sorting and Searching Algorithms
 Task: Study sorting algorithms (merge sort, quicksort) and search algorithms (binary search).
 LeetCode: Solve 1 sorting or searching problem each day from Grind75, analyzing best, worst, and average case complexities.
+
 Day 44-50: Hash Tables
 Task: Explore hash tables, including hash functions, collision resolution, and applications.
 LeetCode: Solve 1 hash table problem each day from Grind75, focusing on complexity analysis and hash-based problem-solving.
 Weeks 10-12: Dynamic Programming, Backtracking, and Review
+
 Day 51-57: Dynamic Programming
 Task: Learn dynamic programming basics, focusing on subproblem optimization and memorization techniques.
 LeetCode: Solve 1 dynamic programming question per day, analyzing time-space trade-offs.
+
 Day 58-64: Backtracking
 Task: Study backtracking techniques, exploring common problems like permutations, combinations, and recursive exploration.
 LeetCode: Solve 1 backtracking problem each day.
+
 Day 65-72: Final Review Week
 Task: Revisit the hardest topics and problems from the past weeks, and focus on problems that require multiple concepts.
 LeetCode: Solve 1 problem per day, choosing from a mix of previous questions and marking any final challenges for review.
@@ -134,8 +142,8 @@ LeetCode: Solve 1 problem per day, choosing from a mix of previous questions and
 
 <!-- START_COMMIT_TABLE -->
 
-| Name | 6.24 | 6.25 | 6.26 | 6.27 | 6.28 | 6.29 | 6.30 | 7.01 | 7.02 | 7.03 | 7.04 | 7.05 | 7.06 | 7.07 | 7.08 | 7.09 | 7.10 | 7.11 | 7.12 | 7.13 | 7.14 |
-| --------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| --- | Name | 10.20 | 10.21 | 10.22 | 10.23 | 10.24 | 10.25 | 10.26 | 10.27 | 10.28 | 10.29 | 10.30 | 11.01 | 11.02 | 11.03 | 11.04 | 11.05 | 11.06 | 11.07 | 11.08 | 11.09 | 11.10 |
+| --------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ---- |
 |                 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 |                 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 |                 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
