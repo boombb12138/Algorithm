@@ -160,38 +160,4 @@ LeetCode: Solve 1 problem per day, choosing from a mix of previous questions and
 <!-- STATISTICALDATA_START -->
 <!-- STATISTICALDATA_END -->
 
-> 如果你是此次共学发起人，请进行以下操作进行自动化发放权限的设置，完成后请将这一部分内容从你的仓库中删掉。
 
-### 为您的组织 【残酷共学营】 创建具有邀请协作者权限的个人访问令牌
-
-要创建具有邀请协作者权限的个人访问令牌，请按照以下步骤操作：
-
-1. 导航到您的个人设置: 转到 https://github.com/settings/profile 并登录您的 GitHub 帐户。
-
-2. 访问个人访问令牌页面: 在左侧菜单中，单击 “开发者设置”，然后选择 “个人访问令牌”。
-
-3. 创建新令牌: 点击 “生成新令牌” 按钮。选择 classic 的
-
-4. 命名您的令牌: 在 “令牌名称” 字段中输入一个描述性名称，例如 `invite-collaborators`。
-
-5. 选择适当的范围: 在 “范围” 部分，选择授予您的令牌所需的权限。对于邀请协作者，您需要授予以下范围：
-
-- `repo:invite`：允许您的令牌创建存储库邀请。最好是给这个令牌赋予 repo 总权限
-- `admin:org` 权限的用户才能创建具有邀请协作者权限的个人访问令牌。
-
-6. 将令牌值添加到存储库 secret: 按照上述步骤将您的个人访问令牌值添加到您的存储库 secret 中，并将名称设置为 `PAT_WITH_INVITE_PERMISSIONS`。
-
-![image](https://github.com/user-attachments/assets/d7c06540-9076-4557-b911-e5e484a742bb)
-
-### 配置共学信息配置变量
-
-1. 配置这四个仓库变量(Repository variables)，注意不要添加**换行**，**空格**符号
-
-| Field Name  | Value                     | Comments                        |
-| ----------- | ------------------------- | ------------------------------- |
-| START_DATE  | 2024-06-24T00:00:00+00:00 | Start time                      |
-| END_DATE    | 2024-07-06T23:59:59+00:00 | End time                        |
-| FIELD_NAME  | Name             | Field name in the readme        |
-| FILE_SUFFIX | .md           | Shared learning activity number |
-
-![image](https://github.com/user-attachments/assets/d5b6f504-9eea-4215-9848-056fc33f00f8)
