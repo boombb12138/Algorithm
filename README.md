@@ -37,9 +37,56 @@
 
 ## 共学内容
 
-请写清楚共学内容的链接以及使用方法，如果欢迎新增共学内容，也请说明一下，但请负责人保证共学的内容准确、质量、数量、符合本次共学难度。
+Weeks 1-2: Complexity Analysis and Array Basics
+Day 1-3: Chapter 1 - Complexity Analysis
+Task: Study time and space complexity analysis, with a focus on Big O notation.
+LeetCode: Start with 1-2 easy problems per day from Grind75, observing how to analyze their complexities.
 
-如果有提供的具体的课程学习计划，也请在此说明。
+Day 4-7: Chapter 2 - Basic Data Structures: Arrays
+Task: Learn array operations and common algorithm techniques (two-pointer, sliding window).
+LeetCode: Solve 1-2 easy to medium array problems per day from Grind75, focusing on complexity trade-offs.
+
+Day 8-14: Chapter 3 - Arrays, Continued
+Task: Deepen understanding of arrays with more complex operations and optimizations.
+LeetCode: Continue with 1 array problem per day (easy to medium).
+
+Weeks 3-4: Linked Lists, Stacks, and Queues
+Day 15-18: Chapter 3 - Linked Lists
+Task: Study linked list structures, exploring traversal, insertion, and deletion.
+LeetCode: Solve 1-2 linked list problems per day from Grind75, analyzing the complexity of each operation.
+Day 19-24: Stacks and Queues
+Task: Study stack and queue operations, focusing on push/pop/enqueue/dequeue operations.
+LeetCode: Solve 1 stack or queue problem each day, using Grind75 to practice implementation and complexity analysis.
+
+<details>
+  <summary>Click to toggle</summary>
+  
+  Weeks 5-6: Trees and Graphs
+Day 25-31: Trees
+Task: Study binary trees, binary search trees, and tree traversal algorithms (preorder, inorder, postorder).
+LeetCode: Solve 1 tree-related problem per day from Grind75, focusing on both time and space complexities.
+Day 32-36: Graphs
+Task: Learn graph traversal techniques like BFS and DFS.
+LeetCode: Solve 1 graph-related question per day from Grind75, focusing on graph representation and traversal complexities.
+Weeks 7-9: Sorting, Searching, and Hash Tables
+Day 37-43: Sorting and Searching Algorithms
+Task: Study sorting algorithms (merge sort, quicksort) and search algorithms (binary search).
+LeetCode: Solve 1 sorting or searching problem each day from Grind75, analyzing best, worst, and average case complexities.
+Day 44-50: Hash Tables
+Task: Explore hash tables, including hash functions, collision resolution, and applications.
+LeetCode: Solve 1 hash table problem each day from Grind75, focusing on complexity analysis and hash-based problem-solving.
+Weeks 10-12: Dynamic Programming, Backtracking, and Review
+Day 51-57: Dynamic Programming
+Task: Learn dynamic programming basics, focusing on subproblem optimization and memorization techniques.
+LeetCode: Solve 1 dynamic programming question per day, analyzing time-space trade-offs.
+Day 58-64: Backtracking
+Task: Study backtracking techniques, exploring common problems like permutations, combinations, and recursive exploration.
+LeetCode: Solve 1 backtracking problem each day.
+Day 65-72: Final Review Week
+Task: Revisit the hardest topics and problems from the past weeks, and focus on problems that require multiple concepts.
+LeetCode: Solve 1 problem per day, choosing from a mix of previous questions and marking any final challenges for review.
+
+</details>
 
 ## 共学时间
 
