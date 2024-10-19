@@ -62,7 +62,62 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ### 2024.10.19
 
-笔记内容
+## 4.1 数组
+
+数组（array）是一种线性数据结构，其将相同类型的元素存储在连续的内存空间中
+
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a6ca9822-e902-41f9-90d9-747f9ae75db0/3b88d720-d90f-4023-8afe-4db617395381/image.png)
+
+### **4.1.1   数组常用操作**
+
+插入元素
+
+```jsx
+/* 在数组的索引 index 处插入元素 num */
+function insert(nums, num, index) {
+    // 把索引 index 以及之后的所有元素向后移动一位
+    for (let i = nums.length - 1; i > index; i--) {
+        nums[i] = nums[i - 1];
+    }
+    // 将 num 赋给 index 处的元素
+    nums[index] = num;
+}
+```
+
+删除元素
+
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a6ca9822-e902-41f9-90d9-747f9ae75db0/c1b0cc21-29e9-42c8-ad73-f352d15b0101/image.png)
+
+```jsx
+/* 删除索引 index 处的元素 */
+function remove(nums, index) {
+    // 把索引 index 之后的所有元素向前移动一位
+    for (let i = index; i < nums.length - 1; i++) {
+        nums[i] = nums[i + 1];
+    }
+}
+```
+
+查找元素
+
+```jsx
+/* 在数组中查找指定元素 */
+function find(nums, target) {
+    for (let i = 0; i < nums.length; i++) {
+        if (nums[i] === target) return i;
+    }
+    return -1;
+}
+```
+
+扩展数组
+
+在js中 数组动态的 可直接扩展
+
+数组的典型应用：
+• **排序和搜索**：数组是排序和搜索算法最常用的数据结构。快速排序、归并排序、二分查找等都主要在数组上进行。
+
+- [x]  完成了3道数组
 
 ### 2024.10.20
 
