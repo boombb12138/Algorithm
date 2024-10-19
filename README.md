@@ -40,6 +40,7 @@
 This is the first stage for this 21 day project:
 
 Weeks 1-2: Complexity Analysis and Array Basics
+
 Day 1-3: Chapter 1 - Complexity Analysis
 Task: Study time and space complexity analysis, with a focus on Big O notation.
 LeetCode: Start with 1-2 easy problems per day from Grind75, observing how to analyze their complexities.
@@ -53,9 +54,11 @@ Task: Deepen understanding of arrays with more complex operations and optimizati
 LeetCode: Continue with 1 array problem per day (easy to medium).
 
 Weeks 3-4: Linked Lists, Stacks, and Queues
+
 Day 15-18: Chapter 3 - Linked Lists
 Task: Study linked list structures, exploring traversal, insertion, and deletion.
 LeetCode: Solve 1-2 linked list problems per day from Grind75, analyzing the complexity of each operation.
+
 Day 19-24: Stacks and Queues
 Task: Study stack and queue operations, focusing on push/pop/enqueue/dequeue operations.
 LeetCode: Solve 1 stack or queue problem each day, using Grind75 to practice implementation and complexity analysis.
