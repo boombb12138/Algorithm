@@ -119,6 +119,7 @@ function find(nums, target) {
 
 - [x]  完成了3道数组
 
-### 2024.10.20
+### 2024.10.25
+https://leetcode.cn/problems/3sum/submissions/575748372/
 
 <!-- Content_END -->
