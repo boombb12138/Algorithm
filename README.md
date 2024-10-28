@@ -27,63 +27,123 @@
 
 This is the first stage for this 21 day project:
 
-Weeks 1-2: Complexity Analysis and Array Basics
+Here's a 12-week plan, integrating Hello Algo topics with the specific LeetCode list from Grind75. Each topic is paired with related practice problems from your link.
 
-Day 1-3: Chapter 1 - Complexity Analysis
-Task: Study time and space complexity analysis, with a focus on Big O notation.
-LeetCode: Start with 1-2 easy problems per day from Grind75, observing how to analyze their complexities.
+---
 
-Day 4-7: Chapter 2 - Basic Data Structures: Arrays
-Task: Learn array operations and common algorithm techniques (two-pointer, sliding window).
-LeetCode: Solve 1-2 easy to medium array problems per day from Grind75, focusing on complexity trade-offs.
+### Weeks 1-2: Complexity Analysis and Array Basics
 
-Day 8-14: Chapter 3 - Arrays, Continued
-Task: Deepen understanding of arrays with more complex operations and optimizations.
-LeetCode: Continue with 1 array problem per day (easy to medium).
+**Day 1-3: Chapter 1 - Complexity Analysis**  
+- **Task**: Study time and space complexity, especially Big O notation.  
+- **LeetCode Problems**: 
+  - Day 1: **Two Sum** (Week 1)
+  - Day 2: **Contains Duplicate** (Week 1)
+  - Day 3: **Maximum Subarray** (Week 1)
 
-Weeks 3-4: Linked Lists, Stacks, and Queues
+**Day 4-7: Chapter 2 - Arrays (Basics)**  
+- **Task**: Learn common array operations, two-pointer technique, and sliding window basics.
+- **LeetCode Problems**:
+  - Day 4: **Product of Array Except Self** (Week 1)
+  - Day 5: **Maximum Product Subarray** (Week 1)
+  - Day 6: **Find Minimum in Rotated Sorted Array** (Week 1)
+  - Day 7: **Search in Rotated Sorted Array** (Week 2)
 
-Day 15-18: Chapter 3 - Linked Lists
-Task: Study linked list structures, exploring traversal, insertion, and deletion.
-LeetCode: Solve 1-2 linked list problems per day from Grind75, analyzing the complexity of each operation.
+**Day 8-14: Chapter 3 - Arrays (Advanced)**  
+- **Task**: Deepen understanding of arrays with optimizations and more complex operations.  
+- **LeetCode Problems**:
+  - Day 8: **3Sum** (Week 2)
+  - Day 9: **Container With Most Water** (Week 2)
+  - Day 10: **Best Time to Buy and Sell Stock** (Week 1)
+  - Day 11: **Longest Consecutive Sequence** (Week 2)
+  - Day 12: **Climbing Stairs** (Week 2)
+  - Day 13: **House Robber** (Week 3)
+  - Day 14: Review of all Week 1-2 problems
 
-Day 19-24: Stacks and Queues
-Task: Study stack and queue operations, focusing on push/pop/enqueue/dequeue operations.
-LeetCode: Solve 1 stack or queue problem each day, using Grind75 to practice implementation and complexity analysis.
+---
+
+### Weeks 3-4: Linked Lists, Stacks, and Queues
+
+**Day 15-18: Chapter 3 - Linked Lists**  
+- **Task**: Explore linked list structures, focusing on traversal, insertion, and deletion.  
+- **LeetCode Problems**:
+  - Day 15: **Reverse Linked List** (Week 3)
+  - Day 16: **Merge Two Sorted Lists** (Week 3)
+  - Day 17: **Linked List Cycle** (Week 3)
+  - Day 18: **Intersection of Two Linked Lists** (Week 4)
+
+**Day 19-24: Stacks and Queues**  
+- **Task**: Learn stack and queue operations and their applications in problem-solving.
+- **LeetCode Problems**:
+  - Day 19: **Valid Parentheses** (Week 3)
+  - Day 20: **Min Stack** (Week 4)
+  - Day 21: **Evaluate Reverse Polish Notation** (Week 4)
+  - Day 22: **Implement Queue using Stacks** (Week 4)
+  - Day 23: **Daily Temperatures** (Week 4)
+  - Day 24: Review of all Week 3-4 problems
+
+---
+
+---
+
+### Weeks 9-12: Advanced Topics
 
 <details>
-  <summary>Below are the full roadmap</summary>
-  
-  Weeks 5-6: Trees and Graphs
-Day 25-31: Trees
-Task: Study binary trees, binary search trees, and tree traversal algorithms (preorder, inorder, postorder).
-LeetCode: Solve 1 tree-related problem per day from Grind75, focusing on both time and space complexities.
+  <summary>
+### Weeks 5-8: Recursion, Trees, and Graphs
 
-Day 32-36: Graphs
-Task: Learn graph traversal techniques like BFS and DFS.
-LeetCode: Solve 1 graph-related question per day from Grind75, focusing on graph representation and traversal complexities.
+**Days 25-31: Chapter 4 - Recursion Basics**  
+- **Task**: Understand recursion concepts, backtracking, and depth-first search.
+- **LeetCode Problems**:
+  - Day 25: **Binary Search** (Week 5)
+  - Day 26: **Subsets** (Week 5)
+  - Day 27: **Combination Sum** (Week 5)
+  - Day 28: **Permutations** (Week 5)
+  - Day 29: **Generate Parentheses** (Week 5)
+  - Day 30: **Word Search** (Week 6)
+  - Day 31: Review Week 5 problems
 
-Weeks 7-9: Sorting, Searching, and Hash Tables
-Day 37-43: Sorting and Searching Algorithms
-Task: Study sorting algorithms (merge sort, quicksort) and search algorithms (binary search).
-LeetCode: Solve 1 sorting or searching problem each day from Grind75, analyzing best, worst, and average case complexities.
+**Days 32-38: Chapter 5 - Trees (Basics)**  
+- **Task**: Study binary trees, binary search trees, and basic tree traversal algorithms.
+- **LeetCode Problems**:
+  - Day 32: **Invert Binary Tree** (Week 5)
+  - Day 33: **Maximum Depth of Binary Tree** (Week 6)
+  - Day 34: **Diameter of Binary Tree** (Week 6)
+  - Day 35: **Balanced Binary Tree** (Week 6)
+  - Day 36: **Lowest Common Ancestor of a Binary Search Tree** (Week 6)
+  - Day 37: **Symmetric Tree** (Week 6)
+  - Day 38: Review Week 6 problems
 
-Day 44-50: Hash Tables
-Task: Explore hash tables, including hash functions, collision resolution, and applications.
-LeetCode: Solve 1 hash table problem each day from Grind75, focusing on complexity analysis and hash-based problem-solving.
-Weeks 10-12: Dynamic Programming, Backtracking, and Review
+**Days 39-42: Chapter 5 - Graphs (Basics)**  
+- **Task**: Learn graph representation, traversal algorithms, and graph search.
+- **LeetCode Problems**:
+  - Day 39: **Clone Graph** (Week 7)
+  - Day 40: **Course Schedule** (Week 7)
+  - Day 41: **Number of Islands** (Week 7)
+  - Day 42: **Graph Valid Tree** (Week 8)
 
-Day 51-57: Dynamic Programming
-Task: Learn dynamic programming basics, focusing on subproblem optimization and memorization techniques.
-LeetCode: Solve 1 dynamic programming question per day, analyzing time-space trade-offs.
+**Days 43-48: Dynamic Programming (Basics)**  
+- **Task**: Explore dynamic programming fundamentals and memoization.
+- **LeetCode Problems**:
+  - Day 43: **Coin Change** (Week 8)
+  - Day 44: **Longest Increasing Subsequence** (Week 8)
+  - Day 45: **Word Break** (Week 8)
+  - Day 46: **Combination Sum IV** (Week 8)
+  - Day 47: **House Robber II** (Week 9)
+  - Day 48: **Decode Ways** (Week 9)
 
-Day 58-64: Backtracking
-Task: Study backtracking techniques, exploring common problems like permutations, combinations, and recursive exploration.
-LeetCode: Solve 1 backtracking problem each day.
+**Days 49-55: Bit Manipulation and Miscellaneous**  
+- **Task**: Study bit manipulation techniques and miscellaneous problems.
+- **LeetCode Problems**:
+  - Day 49: **Single Number** (Week 9)
+  - Day 50: **Number of 1 Bits** (Week 9)
+  - Day 51: **Missing Number** (Week 9)
+  - Day 52: **Hamming Distance** (Week 10)
+  - Day 53: **Reverse Bits** (Week 10)
+  - Day 54: **Power of Two** (Week 10)
+  - Day 55: Review of Week 9-10 problems
 
-Day 65-72: Final Review Week
-Task: Revisit the hardest topics and problems from the past weeks, and focus on problems that require multiple concepts.
-LeetCode: Solve 1 problem per day, choosing from a mix of previous questions and marking any final challenges for review.
+**Days 56-84: Final Review and Problem-Solving Practice**  
+- **Task**: Continue solving any remaining problems from Grind75, focusing on revisiting weak areas, and practice variations of each problem.
 
 </details>
 
