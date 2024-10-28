@@ -121,5 +121,29 @@ function find(nums, target) {
 
 ### 2024.10.25
 https://leetcode.cn/problems/3sum/submissions/575748372/
+### 2024.10.26
+### 2024.10.27
+
+### 2024.10.28
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
+var productExceptSelf = function(nums) {
+    const len = nums.length;
+    if(len==0)return[];//处理边界
+
+const ans = new Array(len).fill(1);//这个数组一开始存放左部分的乘积，后面存放最终的结果
+let tmp=1;//这个是用来存放右部分的乘积
+ //第一个循环是计算左部分的乘积
+ for(let i = 1;i<len;i++){
+    ans[i]=ans[i-1]*nums[i-1];
+ }
+ for(let i =len-2;i>=0;i--){
+    tmp*=nums[i+1];//计算右半部分的乘积 所以是i+1
+    ans[i] *= tmp;//把左边和右边的相乘就得到了结果
+ }
+ return ans;
+};
 
 <!-- Content_END -->
