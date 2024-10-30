@@ -145,5 +145,33 @@ let tmp=1;//这个是用来存放右部分的乘积
  }
  return ans;
 };
+### 2024.10.29
+### 2024.10.30
+https://leetcode.cn/problems/maximum-product-subarray/
+```js
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var maxProduct = function(nums) {
+    let max=-Infinity,imax=1,imin=1;//设置max是-Infinity，这样当imax是负数的时候也能存储在max中
+    for(let i =0;i<nums.length;i++){
+        //令imax等于当前最大值
+  if(nums[i]<0){
+       //当nums[i]为负的时候 imax乘以nums[i]反而会变成最小的 所以要将imax和imin交换 再计算最大值和最小值
+            let tmp = imax;
+            imax = imin;
+            imin=tmp;
+        }
+
+        // 当nums[i]为正的时候
+        imax=Math.max(imax*nums[i],nums[i]);//最大值会等于当前遍历到的值乘以imax
+        imin= Math.min(imin*nums[i],nums[i]);
+      
+      max=Math.max(max,imax);//imax是对于当前遍历到的元素的数组乘积最大值，max存储的是已知的最大值，所以得有max这个变量
+    }
+    return max
+};
+```
 
 <!-- Content_END -->
