@@ -175,5 +175,6 @@ var maxProduct = function(nums) {
 ```
 ### 2024.10.31
 153. 寻找旋转排序数组中的最小值 - 力扣（LeetCode）
-
+33. Search in Rotated Sorted Array
+https://leetcode.cn/problems/search-in-rotated-sorted-array/description/
 <!-- Content_END -->
