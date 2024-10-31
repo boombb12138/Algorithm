@@ -173,5 +173,7 @@ var maxProduct = function(nums) {
     return max
 };
 ```
+### 2024.10.31
+153. 寻找旋转排序数组中的最小值 - 力扣（LeetCode）
 
 <!-- Content_END -->
