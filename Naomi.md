@@ -177,10 +177,11 @@ var maxProduct = function(nums) {
 153. 寻找旋转排序数组中的最小值 - 力扣（LeetCode）
 33. Search in Rotated Sorted Array
 https://leetcode.cn/problems/search-in-rotated-sorted-array/description/
-
+### 2024.11.01
 ### 2024.11.02
 11. Container With Most Water
 https://leetcode.cn/problems/container-with-most-water/
  Best Time to Buy and Sell Stock 
 https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/submissions/577551686/
+https://leetcode.cn/problems/longest-consecutive-sequence/
 <!-- Content_END -->
