@@ -181,4 +181,6 @@ https://leetcode.cn/problems/search-in-rotated-sorted-array/description/
 ### 2024.11.02
 11. Container With Most Water
 https://leetcode.cn/problems/container-with-most-water/
+ Best Time to Buy and Sell Stock 
+https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/submissions/577551686/
 <!-- Content_END -->
