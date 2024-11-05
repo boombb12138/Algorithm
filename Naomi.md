@@ -187,4 +187,6 @@ https://leetcode.cn/problems/longest-consecutive-sequence/
 ### 2024.11.03
 ### 2024.11.04
 https://leetcode.cn/problems/climbing-stairs/
+### 2024.11.05
+https://leetcode.cn/problems/house-robber/submissions/578425734/
 <!-- Content_END -->
