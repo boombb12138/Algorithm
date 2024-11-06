@@ -189,4 +189,6 @@ https://leetcode.cn/problems/longest-consecutive-sequence/
 https://leetcode.cn/problems/climbing-stairs/
 ### 2024.11.05
 https://leetcode.cn/problems/house-robber/submissions/578425734/
+### 2024.11.06
+https://leetcode.cn/problems/reverse-linked-list/submissions/578670103/
 <!-- Content_END -->
