@@ -193,4 +193,6 @@ https://leetcode.cn/problems/house-robber/submissions/578425734/
 https://leetcode.cn/problems/reverse-linked-list/submissions/578670103/
 ### 2024.11.07
 https://leetcode.cn/problems/merge-two-sorted-lists/submissions/578949453/
+### 2024.11.09
+https://leetcode.cn/problems/linked-list-cycle/submissions/579336421/
 <!-- Content_END -->
