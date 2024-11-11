@@ -196,4 +196,6 @@ https://leetcode.cn/problems/merge-two-sorted-lists/submissions/578949453/
 ### 2024.11.09
 https://leetcode.cn/problems/linked-list-cycle/submissions/579336421/
 https://leetcode.cn/problems/intersection-of-two-linked-lists/submissions/579368634/
+### 2024.11.11
+https://leetcode.cn/problems/valid-parentheses/
 <!-- Content_END -->
