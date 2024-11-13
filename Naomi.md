@@ -198,4 +198,6 @@ https://leetcode.cn/problems/linked-list-cycle/submissions/579336421/
 https://leetcode.cn/problems/intersection-of-two-linked-lists/submissions/579368634/
 ### 2024.11.11
 https://leetcode.cn/problems/valid-parentheses/
+### 2024.11.13
+https://leetcode.cn/problems/min-stack/
 <!-- Content_END -->
