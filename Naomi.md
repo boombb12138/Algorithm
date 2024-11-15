@@ -200,4 +200,6 @@ https://leetcode.cn/problems/intersection-of-two-linked-lists/submissions/579368
 https://leetcode.cn/problems/valid-parentheses/
 ### 2024.11.13
 https://leetcode.cn/problems/min-stack/
+### 2024.11.15
+https://leetcode.cn/problems/evaluate-reverse-polish-notation/submissions/580836345/
 <!-- Content_END -->
