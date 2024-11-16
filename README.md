@@ -240,7 +240,19 @@ Here's a 12-week plan, integrating Hello Algo topics with the specific LeetCode 
 
 
 
+
 <!-- STATISTICALDATA_START -->
+
+
+## 统计数据
+
+- 总参与人数: 1
+- 完成人数: 0
+- 完成用户: 
+- 全勤用户: 
+- 淘汰人数: 1
+- 淘汰率: 100.00%
+- Fork人数: 0
 <!-- STATISTICALDATA_END -->
 
 
