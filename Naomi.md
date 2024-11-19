@@ -202,8 +202,10 @@ https://leetcode.cn/problems/valid-parentheses/
 https://leetcode.cn/problems/min-stack/
 ### 2024.11.15
 https://leetcode.cn/problems/evaluate-reverse-polish-notation/submissions/580836345/
-### 2024。11.17
+### 2024.11.17
 https://leetcode.cn/problems/implement-stack-using-queues/
-
-
+### 2024.11.18
+https://leetcode.cn/problems/daily-temperatures/
+### 2024.11.19
+https://leetcode.cn/problems/basic-calculator/
 <!-- Content_END -->
